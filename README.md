@@ -1,1 +1,2 @@
 # ExcelToMysql
+该项目用于方便excel的数据生成mysql的插入语句
